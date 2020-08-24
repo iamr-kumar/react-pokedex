@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About
+Simple react app to randomly distribute few pokemons among two pokedex and choose the one with higher experience the winner. All the data is hard coded.
+This project is made to get started with React.
+
 ## Available Scripts
 
 In the project directory, you can run:
